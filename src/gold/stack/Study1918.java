@@ -1,4 +1,4 @@
-package silver.stack;
+package gold.stack;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
