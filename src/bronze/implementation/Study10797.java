@@ -9,7 +9,7 @@ public class Study10797 {
 		// 10797번 10부제
 		int value;
 		int count = 0;
-		ArrayList arr = new ArrayList();
+		ArrayList<Integer> arr = new ArrayList<>();
 
 		Scanner sc = new Scanner(System.in);
 		
@@ -26,5 +26,6 @@ public class Study10797 {
 		}
 	
 		System.out.println(count);
+		sc.close();
 	}
 }
